@@ -11,7 +11,7 @@
 
 ## Project Description 
 
-This project is a collabrative work of six team members as a requirement for the Android Summer Training at FCIS for the year 2022. The project is aimed towards students, it is basically a studies management tool. In this app there is a GPA calculator, Calendar Events Scheduler, Daily To Do List and finally a Pomodoro Technique Timer all of which are combined together in one place to deliver a pleasent user experience. 
+This project is a collabrative work of six team members as a requirement for the Android Summer Training at FCIS for the year 2022. The project is aimed towards students, it is basically a study management tool. In this app there is a GPA calculator, Calendar Events Scheduler, Daily To Do List and finally a Pomodoro Technique Timer all of which are combined together in one place to deliver a pleasent user experience. 
 
 ## Usage
 
